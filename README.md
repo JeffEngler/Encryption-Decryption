@@ -28,3 +28,7 @@ This command line program takes in data as either a file or a string and writes 
  Example input: java Main -mode enc -key 5 -data "Hello world!" -alg unicode
  
  Example Output: Mjqqt%|twqi&
+ 
+ 
+ 
+ Reading and writing files in this program will only work on windows systems.
