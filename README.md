@@ -17,7 +17,7 @@ This command line program takes in data as either a file or a string and writes 
        
        -out    the file to write the results too
        
-       -key    integer value that determines how for charachters ore shifted
+       -key    integer value that determines how far characters ore shifted
 
 
  If an input file and string are both given, the string will be processed and the file will be ignored.
